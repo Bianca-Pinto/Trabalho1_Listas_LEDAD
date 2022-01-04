@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Documents/CLionProjects/Trabalho1_LEDAD/item.h
+quadrado.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/quadrado.h
+
+D:/Documents/CLionProjects/Trabalho1_LEDAD/lista_encadeada.h
+item.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/item.h
+
+D:/Documents/CLionProjects/Trabalho1_LEDAD/lista_ordenada.h
+item.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/item.h
+
+D:/Documents/CLionProjects/Trabalho1_LEDAD/lista_sequencial.h
+item.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/item.h
+
+D:/Documents/CLionProjects/Trabalho1_LEDAD/main.c
+stdio.h
+-
+quadrado.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/quadrado.h
+lista_sequencial.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/lista_sequencial.h
+lista_encadeada.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/lista_encadeada.h
+lista_ordenada.h
+D:/Documents/CLionProjects/Trabalho1_LEDAD/lista_ordenada.h
+
+D:/Documents/CLionProjects/Trabalho1_LEDAD/quadrado.h
+

@@ -1,0 +1,3 @@
+"D:\Programas\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Trabalho1_LEDAD.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\Trabalho1_LEDAD.dir/objects.a @CMakeFiles\Trabalho1_LEDAD.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Trabalho1_LEDAD.dir/objects.a -Wl,--no-whole-archive -o Trabalho1_LEDAD.exe -Wl,--out-implib,libTrabalho1_LEDAD.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Trabalho1_LEDAD.dir\linklibs.rsp
